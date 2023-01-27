@@ -6,9 +6,9 @@ Analyst
 
 I'm currently working as an Analyst in Wipro. I like to code.
 
-* 🌍  I'm based in India
+* 🌍  I'm based in Chennai,India.
 * ✉️  You can contact me at [gangasnimmy@gmail.com](mailto:gangasnimmy@gmail.com)
-* 🧠  I'm learning Data Structure and Algorithm
+* 🧠  I'm currently learning Full Stack Web Development at LetsUpgrade.
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
